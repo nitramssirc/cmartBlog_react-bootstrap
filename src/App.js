@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import './bootstrap.min.css' //See https://bootswatch.com/superhero/ for theme documentation
 
 function App() {
   return (
