@@ -27,10 +27,8 @@ function App() {
             >
               &times;
             </button>
-            <h4 class="alert-heading">Warning!</h4>
             <p class="mb-0">
-              Best check yo self, you're not looking too good. Nulla vitae elit
-              libero, a pharetra augue. Praesent commodo cursus magna, .
+            Launching Global Thermonuclear War
             </p>
           </div>
         )}
@@ -39,7 +37,7 @@ function App() {
           class="btn btn-danger"
           onClick={() => setOldShow(true)}
         >
-          Danger
+          Shall We Play A Game?
         </button>
       </div>
     </>
